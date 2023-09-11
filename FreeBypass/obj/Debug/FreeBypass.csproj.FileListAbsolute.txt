@@ -1,0 +1,30 @@
+C:\Users\Ritik\Documents\FreeBypass\FreeBypass\obj\Debug\FreeBypass.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ritik\Documents\FreeBypass\FreeBypass\obj\Debug\FreeBypass.Properties.Resources.resources
+C:\Users\Ritik\Documents\FreeBypass\FreeBypass\obj\Debug\FreeBypass.csproj.GenerateResource.cache
+C:\Users\Ritik\Documents\FreeBypass\FreeBypass\obj\Debug\FreeBypass.csproj.CoreCompileInputs.cache
+C:\Users\Ritik\Documents\FreeBypass\FreeBypass\obj\Debug\FreeBypass.csproj.CopyComplete
+C:\Users\Ritik\Documents\FreeBypass\FreeBypass\obj\Debug\FreeBypass.csproj.AssemblyReference.cache
+C:\Users\Ritik\Documents\FreeBypass\FreeBypass\obj\Debug\FreeBypass.StatusAlert.resources
+C:\Users\Ritik\Documents\FreeBypass\FreeBypass\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ritik\Documents\FreeBypass\FreeBypass\obj\Debug\FreeBypass.csproj.Fody.CopyLocal.cache
+C:\Users\Ritik\Documents\FreeBypass\FreeBypass\obj\Debug\FreeBypass.UI.resources
+C:\Users\Ritik\Documents\FreeBypass\FreeBypass\bin\Debug\BlueStacks 4.exe.config
+C:\Users\Ritik\Documents\FreeBypass\FreeBypass\bin\Debug\BlueStacks 4.exe
+C:\Users\Ritik\Documents\FreeBypass\FreeBypass\bin\Debug\BlueStacks 4.pdb
+C:\Users\Ritik\Documents\FreeBypass\FreeBypass\obj\Debug\BlueStacks 4.exe
+C:\Users\Ritik\Documents\FreeBypass\FreeBypass\obj\Debug\BlueStacks 4.pdb
+E:\Smarty Project\FreeBypass\FreeBypass\bin\Debug\BlueStacks 4.exe.config
+E:\Smarty Project\FreeBypass\FreeBypass\bin\Debug\BlueStacks 4.exe
+E:\Smarty Project\FreeBypass\FreeBypass\bin\Debug\BlueStacks 4.pdb
+E:\Smarty Project\FreeBypass\FreeBypass\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Smarty Project\FreeBypass\FreeBypass\obj\Debug\FreeBypass.csproj.AssemblyReference.cache
+E:\Smarty Project\FreeBypass\FreeBypass\obj\Debug\FreeBypass.csproj.SuggestedBindingRedirects.cache
+E:\Smarty Project\FreeBypass\FreeBypass\obj\Debug\FreeBypass.Properties.Resources.resources
+E:\Smarty Project\FreeBypass\FreeBypass\obj\Debug\FreeBypass.StatusAlert.resources
+E:\Smarty Project\FreeBypass\FreeBypass\obj\Debug\FreeBypass.UI.resources
+E:\Smarty Project\FreeBypass\FreeBypass\obj\Debug\FreeBypass.csproj.GenerateResource.cache
+E:\Smarty Project\FreeBypass\FreeBypass\obj\Debug\FreeBypass.csproj.CoreCompileInputs.cache
+E:\Smarty Project\FreeBypass\FreeBypass\obj\Debug\FreeBypass.csproj.Fody.CopyLocal.cache
+E:\Smarty Project\FreeBypass\FreeBypass\obj\Debug\FreeBypass.csproj.CopyComplete
+E:\Smarty Project\FreeBypass\FreeBypass\obj\Debug\BlueStacks 4.exe
+E:\Smarty Project\FreeBypass\FreeBypass\obj\Debug\BlueStacks 4.pdb

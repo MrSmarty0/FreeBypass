@@ -1,0 +1,15 @@
+C:\Users\Ritik\Documents\FreeBypass\FreeBypass\bin\Release\FreeBypass.exe.config
+C:\Users\Ritik\Documents\FreeBypass\FreeBypass\bin\Release\FreeBypass.exe
+C:\Users\Ritik\Documents\FreeBypass\FreeBypass\bin\Release\FreeBypass.pdb
+C:\Users\Ritik\Documents\FreeBypass\FreeBypass\bin\Release\Guna.UI2.dll
+C:\Users\Ritik\Documents\FreeBypass\FreeBypass\bin\Release\Helper.dll
+C:\Users\Ritik\Documents\FreeBypass\FreeBypass\bin\Release\memory.dll
+C:\Users\Ritik\Documents\FreeBypass\FreeBypass\obj\Release\FreeBypass.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ritik\Documents\FreeBypass\FreeBypass\obj\Release\FreeBypass.Form1.resources
+C:\Users\Ritik\Documents\FreeBypass\FreeBypass\obj\Release\FreeBypass.Properties.Resources.resources
+C:\Users\Ritik\Documents\FreeBypass\FreeBypass\obj\Release\FreeBypass.StatusAlert.resources
+C:\Users\Ritik\Documents\FreeBypass\FreeBypass\obj\Release\FreeBypass.csproj.GenerateResource.cache
+C:\Users\Ritik\Documents\FreeBypass\FreeBypass\obj\Release\FreeBypass.csproj.CoreCompileInputs.cache
+C:\Users\Ritik\Documents\FreeBypass\FreeBypass\obj\Release\FreeBypass.csproj.CopyComplete
+C:\Users\Ritik\Documents\FreeBypass\FreeBypass\obj\Release\FreeBypass.exe
+C:\Users\Ritik\Documents\FreeBypass\FreeBypass\obj\Release\FreeBypass.pdb
